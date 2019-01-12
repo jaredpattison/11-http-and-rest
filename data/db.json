@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "cat",
+      "display_name": "gories",
+      "description": "categories"
+    },
+    {
+      "name": "dog",
+      "display_name": "morgories",
+      "description": "things you don't want",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "category": "stuff",
+      "name": "Best stuff",
+      "display_name": "Buy this stuff",
+      "description": "Stuff you should bu"
+    }
+  ]
+}
