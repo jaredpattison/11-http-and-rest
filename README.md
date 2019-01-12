@@ -1,12 +1,12 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## http and rest server
 
-### Author: Student/Group Name
+### Author: Jared
 
 ### Links and Resources
-* [repo](http://xyz.com)
+* [repo](https://github.com/jaredpattison/11-http-and-rest)
 * [travis](http://xyz.com)
 * [back-end](http://xyz.com)
 * [front-end](http://xyz.com)
